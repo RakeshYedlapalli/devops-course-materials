@@ -1,2 +1,3 @@
-# devops-course-materials
-devops-course-materials
+# in28Minutes - Course Materials
+
+Thank You for Choosing to Learn from in28Minutes.
